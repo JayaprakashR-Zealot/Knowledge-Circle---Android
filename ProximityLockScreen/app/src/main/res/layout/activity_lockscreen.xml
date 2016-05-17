@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".LockscreenActivity">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:text="Lock screen using proximity sensor" android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imgProximity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/proximity_sensor"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/txtTitle"
+        />
+
+    <TextView
+        android:id="@+id/txtContent"
+        android:text="By tap on proximity sensor, you can lock your device" android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="14sp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/imgProximity"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtSensorName"
+        android:text=""
+        android:layout_width="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/txtContent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtSensorRange"
+        android:text="" android:layout_width="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="2dp"
+        android:layout_below="@+id/txtSensorName"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/btnActivate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Activate"
+            android:layout_gravity="center"
+            android:onClick="onActivateProximityLock"
+            />
+        <Button
+            android:id="@+id/btnDeactivate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Deactivate"
+            android:layout_gravity="center"
+            android:onClick="onDeactivateProximityLock"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
