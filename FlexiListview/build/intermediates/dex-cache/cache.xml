@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-60a111d5bde5af13b1a63dfb96132f9f9f9799f2.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-ff25926f9d901e514ff2e7a6a763df8dbb74165b.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-6b437b73ac83bfb481f7e2c46a1af6cb4fa1ff0b.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf9754bfa8484f88f26e45d28fe298daa544d4f0">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-a4093c738b26197aff0a0af303e283e5427948ba.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-e0ba13a3b0236e41d1e0828f0f47ef5177856ede.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-a812103b352a4b73ba9e1e354f9fda0e0b9e54e9.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\classes-e2a04915267858fbe79ad20abb5faceef8540d61.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\Softwares\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-b0ea5c24c02b8baf8c5f813ee725250c436585f6.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Source\FlexiListview\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-050fa4fa9dc05630578d6bdf7eb2a97f670520b8.jar" />
+    </item>
+
+</items>
