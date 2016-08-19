@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-093fcfedbc78be4a5f92668559f04965d92a3e3b.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-424639c9b729774f06df3375d61ef33a9f808d2d.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-b7cd03204ba4341162b9fa1c93b5bf1fc49ba149.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-87fdfa920094d6e5ed2af2f6fd8023994f0532bb.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-6cb6314de5d6a41189311d34cbb558d8a386a076.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-def03a91a4216791ede8d1cfe586a68ab8145bdf.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-df5c4e17008fbe21dcfa2b0e2f1aa5aa97dca2fc.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-4774b18149d5c28505238153b881983a72d1cce1.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-9067b0a6eb2150ff4dcb455cbb28aba4c3e50831.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-70eb82f76b1758cc3b92f99383d453adad8c678a.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-8ed0972f1f325157b3286c14d4cfb25e7c3453af.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-decc56f3942cce2161ca66e852206e3badc58e29.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-93ff207392036bc5eab056495fc7feb460808597.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-9a748b2c2cb6e9299a0c73a798426e5821e88587.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\Softwares\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-3a106e72bc248847456ce51732a05f5a9d742888.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-97b31b54dd8ced0b7bef238e339e4bb49ddee271.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-8e7fe062b4d6646b7429de2b6162837e1b874d3f.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-6e78e9c8379854ad1c08ace95b75a5f88725eb2c.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-8e46d71ec9fc659adac45dc8a9498fba70f48fc5.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-177415afe6e3a1ce2f84abb2454bd556cd428e78.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-a7c6618ce190b2f501d1507078d74717bb207971.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-42a3ffe6da2d50c077c912ac8e4834c829b3b9bb.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-63d3c0f1eb8bdf307df757aa727878fcbfbef67e.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-a251f56f9a8631b6a283957c5319bbb495149c8f.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-98ebed4bee5b1c717048b0dd6d3d1ebc8649d699.jar" />
+    </item>
+    <item
+        jar="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\pre-dexed\debug\classes-16786aafd738eefd8ac977d63b9776d0b4be9505.jar" />
+    </item>
+
+</items>

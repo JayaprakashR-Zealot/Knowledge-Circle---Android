@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:8:22-72
+application
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:13:9-40
+meta-data#com.google.android.gms.version
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:14:9-15:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:15:13-66
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:14:20-65
+activity#com.truedreamz.googleads.GoogleADsListActivity
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:17:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:25:9-27:64
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:26:13-122
+	android:theme
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:27:13-61
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:25:19-71
+activity#com.truedreamz.googleads.NativeADsActivity
+ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:28:19-52
+uses-sdk
+INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.0.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.0.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.1.1] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+		INJECTED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:26:8-31
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\src\main\AndroidManifest.xml:2:1-31:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] G:\JP Documents\JPsKnowledgeCircle\Codebase\GoogleADs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:25-96
