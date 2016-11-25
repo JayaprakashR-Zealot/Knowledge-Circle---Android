@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NearByPlaces</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="strNoInternet">Kindly connect internet to activate App.</string>
+    <string name="google_places_api_key">AIzaSyAWogwzUw9bHIw9glX881M45V71umY7XHM</string> <!--Browser API KEY (Geo layer)-->
+</resources>

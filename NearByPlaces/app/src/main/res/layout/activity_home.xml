@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".HomeActivity">
+
+<Button
+    android:id="@+id/btnFood_stay"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Food &amp; Stay"
+    android:layout_margin="3dp"
+    android:onClick="onFoodStayListener"
+    />
+
+    <Button
+        android:id="@+id/btnBank"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Bank &amp; ATM"
+        android:layout_margin="3dp"
+        android:onClick="onBankListener"
+        />
+
+    <Button
+        android:id="@+id/btnShopping"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Shopping"
+        android:layout_margin="3dp"
+        android:onClick="onShoppingListener"
+        />
+
+    <Button
+        android:id="@+id/btnEntertainment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Entertainment"
+        android:layout_margin="3dp"
+        android:onClick="onEntertainmentListener"
+        />
+
+    <Button
+        android:id="@+id/btnTransport"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Transport"
+        android:layout_margin="3dp"
+        android:onClick="onTransportListener"
+        />
+
+    <Button
+        android:id="@+id/btnHealth_fit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Health &amp; Fitness"
+        android:layout_margin="3dp"
+        android:onClick="onHealthListener"
+        />
+    <Button
+        android:id="@+id/btnPeace"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Peace"
+        android:layout_margin="3dp"
+        android:onClick="onPeaceListener"
+        />
+</LinearLayout>
